@@ -1,3 +1,5 @@
+HOMEWORK 1 Q 1
+
 a = 100
 b = 80
 c = 10
@@ -76,3 +78,16 @@ print (m5)
 print ('we have all the change we need if m5 = 0.', m5)
 
 print ('yay we are done!')
+
+
+HOMEWORK 1 Q 2
+F = 98.6
+K = 329.7
+C = -60.9
+
+C1 = 5/9*(F-32)
+print ('The conversion is', C1)
+F1 = 9/5*(K-273) + 32 
+print ('The conversion is', F1)
+K1 = C + 273
+print ('The conversion is', K1)
